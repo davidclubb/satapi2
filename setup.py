@@ -48,8 +48,8 @@ def main():
             scripts = SCRIPTS,
             zip_safe =  False,
             install_requires = [
-                'restkit',
-                'config'],
+                'restkit>=4.2.2',
+                'config>=0.3.9'],
         )
 
 
