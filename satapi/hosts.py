@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -
 #
+# This file is part of SatAPI released under the GPLv3 license.
 
 from restkit import Resource, BasicAuth
 
